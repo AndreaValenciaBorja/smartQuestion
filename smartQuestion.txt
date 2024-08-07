@@ -1,0 +1,16 @@
+¿Cómo podemos usar los datos históricos de pacientes para crear un modelo que prediga y 
+reduzca en un 20% las glosas por estancia no pertinente en la UCI de la clínica, 
+contribuyendo a mejorar la eficiencia y calidad del servicio, en un período de seis meses?
+
+Desglose de SMART:
+Specific: ¿Qué factores específicos contribuyen a las glosas por estancia no pertinente en la UCI de la clínica?
+Measurable: ¿Cómo podemos usar los datos históricos de pacientes para predecir y reducir en un 20% las glosas por estancia no pertinente en la UCI en los próximos seis meses?
+Achievable: ¿Qué modelos podemos implementar con los recursos actuales de la clínica para predecir las glosas?
+Relevant: ¿Cómo contribuirá la predicción de glosas por estancia no pertinente en la UCI a mejorar la eficiencia y la calidad del servicio en la clínica?
+Time-bound: ¿Qué resultados podemos obtener en los próximos seis meses al implementar un sistema de predicción de glosas por estancia no pertinente en la UCI?
+
+Problema específico: Glosas por estancia no pertinente en la UCI.
+Medicion de éxito: Reducción del 20% en las glosas.
+Alcanzabilidad: Usar modelos de machine learning con recursos actuales.
+Objetivos relevantes: Mejorar eficiencia y calidad del servicio.
+Plazo de tiempo: Seis meses.

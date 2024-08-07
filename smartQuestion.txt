@@ -1,4 +1,5 @@
-¿Cómo reducir en un 20% las glosas por estancia no pertinente en la UCI de la clínica, usando los datos históricos de pacientes para mejorar la eficiencia y calidad del servicio, en un período de seis meses?
+¿Cómo reducir en un 20% las glosas por estancia no pertinente en la UCI de la clínica, 
+usando los datos históricos de pacientes para mejorar la eficiencia y calidad del servicio, en un período de seis meses?
 
 Problema específico: Glosas por estancia no pertinente en la UCI.
 Medición: Reducción del 20% en las glosas.
@@ -7,5 +8,9 @@ Objetivos relevantes: Mejorar eficiencia y calidad del servicio.
 Plazo de tiempo: Seis meses.
 
 Justificación del uso de CD e IA
-Para reducir las glosas por estancias no pertinentes en la UCI, se debe analizar los datos históricos de pacientes y estancias para identificar patrones. Con un modelo predictivo, se puede predecir la probabilidad de estancias no pertinentes según variables como diagnóstico y duración. Luego, se optimiza mediante la segmentación de pacientes para detectar grupos en riesgo y entender las causas de las estancias no pertinentes. Con estos hallazgos, se pueden desarrollar políticas y se puede implementar un sistema de monitoreo en tiempo real para prevenir inconsistencias. Finalmente, se mide la reducción de glosas y se ajustan las estrategias para lograr una reducción del 20%.
+Para reducir las glosas por estancias no pertinentes en la UCI, se debe analizar los datos históricos de pacientes y estancias para identificar patrones. 
+Con un modelo predictivo, se puede predecir la probabilidad de estancias no pertinentes según variables como diagnóstico y duración. 
+Luego, se optimiza mediante la segmentación de pacientes para detectar grupos en riesgo y entender las causas de las estancias no pertinentes. 
+Con estos hallazgos, se pueden desarrollar políticas y se puede implementar un sistema de monitoreo en tiempo real para prevenir inconsistencias. 
+Finalmente, se mide la reducción de glosas y se ajustan las estrategias para lograr una reducción del 20%.
 
